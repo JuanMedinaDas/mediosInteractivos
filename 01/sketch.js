@@ -106,15 +106,7 @@ vertex(64,428);
 vertex(57,415);
 vertex(81,404);
 endShape(CLOSE);   // figura 2 cerrado
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		
 //triangulo		
 strokeWeight(1)
 	fill(192,130,93); 

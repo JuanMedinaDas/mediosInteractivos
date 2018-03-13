@@ -29,10 +29,10 @@
 //con el que la subieron a la carpeta de assets
 function preload() 
 {
- imagen1 = loadImage('Atardecer.jpg');
- imagen2 = loadImage('Pradera.jpg');
- imagen3 = loadImage('Egipto.jpg'); 
- imagen4 = loadImage('mar.jpg');
+ imagen1 = loadImage('assets/Atardecer.jpg');
+ imagen2 = loadImage('assets/Pradera.jpg');
+ imagen3 = loadImage('assets/Egipto.jpg'); 
+ imagen4 = loadImage('assets/mar.jpg');
 }
 
 

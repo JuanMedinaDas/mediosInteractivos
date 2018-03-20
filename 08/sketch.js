@@ -5,7 +5,7 @@ var amplitudnum;
 
 function preload(){
   //preload del sonido
-  miSonido=loadSound('assets/Dinura.mp3');
+  miSonido=loadSound('Dinura.mp3');
 }
 
 

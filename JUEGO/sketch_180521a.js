@@ -743,4 +743,4 @@ function mouseClicked() {
  ship.vidas=3;
   }
 }
-rect(650,1600,780,340);
+
